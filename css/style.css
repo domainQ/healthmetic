@@ -1,0 +1,17 @@
+button.btn{
+    margin-left: 40px;
+    padding: 24px 30px;
+}
+ul li a{
+    margin: 0px 10px;
+}
+.navbar{
+    height: 150px;
+}
+#banner{
+    max-height: 600px;
+    /* border: 2px solid black; */
+    overflow: hidden;
+}
+
+
